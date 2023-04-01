@@ -1,0 +1,14 @@
+{
+  "name": "projeto-final---java-script-avancado",
+  "version": "1.0.0",
+  "description": "Projeto Final de JS Avançado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Borges",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
